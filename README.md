@@ -50,4 +50,4 @@ Output: valid
 ```
 
 
-#### Review the code [Here](https://github.com/Saad-Malik1/Valid-Parentheses/blob/main/algorithm_code) 
+#### Review the code [Here](https://github.com/Saad-Malik1/Valid-Parentheses/blob/main/algorithm_code.js) 
